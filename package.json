@@ -11,5 +11,8 @@
   "dependencies": {
     "email-templates": "git://github.com/astik/email-templates.git#without-preview-email",
     "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "preview-email": "^2.0.2"
   }
 }
