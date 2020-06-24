@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "email-templates": "git://github.com/astik/email-templates.git#without-preview-email",
+    "pug": "^3.0.0"
+  }
 }
